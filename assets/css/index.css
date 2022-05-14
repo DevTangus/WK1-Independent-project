@@ -1,0 +1,64 @@
+body {
+  font-family: "Nunito", "Courier New", Courier, monospace;
+}
+
+.menu {
+  display: flex;
+}
+/* ul li {
+  list-style: none;
+
+  justify-content: flex-end;
+} */
+nav .menu .logo {
+  font-size: 30px;
+  word-spacing: 4px;
+  padding: 4px;
+}
+.ul12 {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-inline: 20px;
+}
+.content1 {
+  display: flex;
+  /* flex-direction: row; */
+  width: 100%;
+}
+.text2 {
+}
+.text1 {
+  width: 50%;
+}
+button {
+  background-color: #ec4067;
+  font-size: 16px;
+  border: none;
+  height: 30px;
+}
+.box1 {
+  display: flex;
+}
+
+.txt1 {
+  width: 50%;
+}
+.image001 {
+  width: 700px;
+}
+.box2 img {
+  width: 55%;
+}
+.sec2 {
+  display: flex;
+  width: 100%;
+}
+.box3 {
+  width: 500px;
+}
+.sec3 {
+  display: flex;
+  width: 100%;
+}
